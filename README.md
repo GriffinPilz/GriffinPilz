@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @GriffinPilz
-- 👀 I’m interested in data engineering.
-- 🌱 I’m currently learning docker, fastapi, GIS, postgresql, and more
-- 💞️ I’m looking to collaborate on creating spatial data
-- 📫 How to reach me grif@develup.com
+
